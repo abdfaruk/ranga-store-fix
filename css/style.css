@@ -2,6 +2,12 @@ body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
 }
+#body-id{
+  background-color: rgb(217, 226, 228);
+}
+#input-field{
+  background-color: rgb(217, 226, 228);
+}
 .search-field {
   border: none;
   border-radius: 50px;
